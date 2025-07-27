@@ -1,7 +1,7 @@
 <h1>🔥 Sparkchain AutoBot by DropsterMind</h1>
 
 <p>
-  Bot otomatis untuk melakukan <strong>heartbeat</strong> setiap 15 menit dan memantau <strong>earning poin</strong> dari Sparkchain (https://sparkchain.ai/register/?r=46713697).<br>
+  Bot otomatis untuk melakukan <strong>heartbeat</strong> setiap 15 menit dan memantau <strong>earning poin</strong> dari Sparkchain.<br>
   Dilengkapi dengan <strong>proxy support (opsional)</strong>, <strong>auto reconnect</strong>, <strong>log warna CLI</strong>, dan <strong>statistik real-time</strong>.
 </p>
 
