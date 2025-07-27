@@ -97,7 +97,7 @@ http://host:port</code></pre>
 
 <p>
   Developed by: <strong>DropsterMind</strong><br>
-  Telegram: <a href="https://github.com/DropsterMind">@DropsterMind</a>
+  Telegram: <a href="https://t.me/dropstermind">@DropsterMind</a>
 </p>
 
 <hr>
